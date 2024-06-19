@@ -63,13 +63,8 @@ const siteLinksList = computed(() => {
 
 // 网站链接图标
 const siteIcon = {
+  Home,
   Blog,
-  Cloud,
-  CompactDisc,
-  Compass,
-  Book,
-  Fire,
-  LaptopCode,
 };
 
 // 链接跳转
